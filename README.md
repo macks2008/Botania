@@ -48,3 +48,6 @@ JVM argument to `true`.
 7. Go to [Jenkins](https://ci.blamejared.com/job/Botania/view/tags/) and wait for the tag you just pushed to be compiled and built
 8. Download the JAR and submit it to CurseForge
 9. Push the website: `./syncweb.sh <remote username>`. If you don't provide a remote username to ssh into the webserver, it'll take your current login name.
+## Fork info
+if you're wondering why this fork exists, this section is for you!
+among other potential reasons (like contributing to the project in the future), this fork exists in order to allow me to make a SLIGHT modification to how the Flugal Tiara works (more specifically, I'm adding a creative version of the item that offers all abilities without the mana cost)
